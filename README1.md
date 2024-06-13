@@ -1,2 +1,0 @@
-# MindSpore
-MindSpore DeepHPMs
