@@ -40,7 +40,7 @@
 ./model/deep_hpms/data
 ```
 
-![img](https://github.com/taurusgau/MindSpore/tree/main/images/img01.jpg)
+![img](images/img01.png)
 
 ## 三、项目需求
 
