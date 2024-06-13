@@ -1,0 +1,36 @@
+asttokens==2.4.1
+astunparse==1.6.3
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+cftime==1.6.2
+cycler==0.11.0
+filelock==3.12.2
+fonttools==4.38.0
+joblib==1.3.2
+kiwisolver==1.4.5
+matplotlib==3.5.3
+mindspore @ https://ms-release.obs.cn-north-4.myhuaweicloud.com/2.2.14/MindSpore/unified/x86_64/mindspore-2.2.14-cp37-cp37m-linux_x86_64.whl
+mpi4py @ file:///croot/mpi4py_1671223370575/work
+netCDF4==1.6.4
+numpy==1.21.6
+Ofpp==0.1
+packaging==24.0
+pandas==1.1.5
+Pillow==9.5.0
+protobuf==4.24.4
+psutil==5.9.8
+pyaml==23.5.8
+pyDOE==0.3.8
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+pytz==2024.1
+PyYAML==6.0.1
+sciai @ https://ms-release.obs.cn-north-4.myhuaweicloud.com/2.2.0/MindScience/sciai/gpu/x86_64/cuda-11.1/sciai-0.1.0-cp37-cp37m-linux_x86_64.whl
+scikit-learn==1.0.2
+scikit-optimize==0.9.0
+scipy==1.7.3
+seaborn==0.12.2
+six==1.16.0
+threadpoolctl==3.1.0
+tikzplotlib==0.10.1
+typing_extensions==4.7.1
+webcolors==1.13

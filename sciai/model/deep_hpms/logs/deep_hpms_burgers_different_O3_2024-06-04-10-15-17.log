@@ -1,0 +1,34 @@
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO 
+
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO device_id : None
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO model_name : deep_hpms
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO problem : burgers_different
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO description : burgers_different
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO case : burgers_different
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO u_layers : [2, 50, 50, 50, 50, 1]
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO pde_layers : [3, 100, 100, 1]
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO layers : [2, 50, 50, 50, 50, 1]
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO save_ckpt : True
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO load_ckpt : False
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO save_ckpt_path : ./checkpoints
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO load_ckpt_path : ./checkpoints/burgers_diff_final.ckpt
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO save_fig : True
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO figures_path : ./figures
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO load_data_idn_path : ./data/burgers_sine.mat
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO load_data_sol_path : ./data/burgers.mat
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO log_path : ./logs
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO lr : 0.001
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO train_epoch : 30001
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO train_epoch_lbfgs : 0
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO print_interval : 100
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO lb_idn : [0.0, -8.0]
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO ub_idn : [10.0, 8.0]
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO lb_sol : [0.0, -8.0]
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO ub_sol : [10.0, 8.0]
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO download_data : deep_hpms
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO force_download : False
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO amp_level : O3
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO mode : 0
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO 
+
+Tue, 04 Jun 2024 18:15:17 log_utils.py[line:74] INFO Data is already downloaded.
