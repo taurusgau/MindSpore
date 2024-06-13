@@ -40,7 +40,7 @@
 ./model/deep_hpms/data
 ```
 
-![img](https://pxiw11pck8u.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjA0ZmZjZmJhMjFmZmIzMGMyYjM0ZmNmZGZhNzYyMmNfMFJkSFZoM3JZR0RCZXFlZzVrazlnakJWMlgyeHFqd3VfVG9rZW46T0hwQWJ3Z3NLb0JKNnl4ZXpxdmNpVTNwbkVkXzE3MTc4NTgwNjQ6MTcxNzg2MTY2NF9WNA)
+![img](https://github.com/taurusgau/MindSpore/tree/main/images/img01.jpg)
 
 ## 三、项目需求
 
