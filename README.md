@@ -170,7 +170,7 @@ zipp==3.19.1
 
 ### 4.3 训练过程
 
-![img](https://pxiw11pck8u.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDM2ZmE1NTYxMzNjMTc3YWIyNDcyMzU0ZmM3NTcwZWNfNTliREpaaVNWS3NkQ1lHSm1pWWt1aE83MmZKbXMzR0ZfVG9rZW46QlB3UmI0M0Flb29CdVF4UEpmNGNna3ZCbjRiXzE3MTc4NTgwNjQ6MTcxNzg2MTY2NF9WNA)
+![img](images/img02.png)
 
 - 训练日志存放路径：PaddleScience/output_burgers
 
@@ -228,7 +228,7 @@ MindSpore是一个高度灵活、高效且广泛适用的深度学习框架，�
   - **前端语言多元化探索：**开放多元的前端接入，扩大开发者基础和应用领域。
   - **深度优化的编译系统：**确保深度学习任务在各类硬件上的高性能执行。
 
-![img](https://pxiw11pck8u.feishu.cn/space/api/box/stream/download/asynccode/?code=N2Y4MjA3YTE1Nzk2YzhhN2QzOWUzNGI2NzUxZTA4ODBfRzR4Umo2VmQ5VUx1cFI1UldWWERZOTk4TG9Kd0lEajJfVG9rZW46Vm9uUWJnczFCb1FjRWF4c0JxWmN3enByblRlXzE3MTc4NTgwNjQ6MTcxNzg2MTY2NF9WNA)
+![img](images/img03.png)
 
 ### 6.2 服务器环境配置：
 
@@ -239,7 +239,7 @@ MindSpore是一个高度灵活、高效且广泛适用的深度学习框架，�
 | CUDA | 11.1        | 对cuda版本要求比较高：mindspore的gpu版本只支持cuda11.1 cuda11.6而sciai仅支持cuda11.1  python==3.7综上：选择安装cuda11.1 |
 | 显卡 | 2080ti      | GPU                                                          |
 
-![img](https://pxiw11pck8u.feishu.cn/space/api/box/stream/download/asynccode/?code=MzgxYjE3YzAwNGMwOTkzZmM1N2JkMWI2NTFjMjA4ZmJfaXdvbldkYTZ6ZFBaZG5oM2JQRGk5N2pXc3BLVWpkUTRfVG9rZW46UE9rN2JIYVZUbzZrRTZ4b1M3dGMzWjhibkpnXzE3MTc4NTgwNjQ6MTcxNzg2MTY2NF9WNA)
+![img](images/img04.png)
 
 6.2.2创建虚拟环境并且切换到环境：
 
@@ -293,7 +293,7 @@ webcolors==1.13
 
 - 服务器支持环境
 
-![img](https://pxiw11pck8u.feishu.cn/space/api/box/stream/download/asynccode/?code=NWM5NmUzYTBkZTdjMDQ0NWNlMzM4ZTM0NDIxNDFmMGFfUXh1c0h4QjhGM2ZpT3ZyWDRwR3NqSmR1QkxLVW9Ra3FfVG9rZW46Tk9nOGI4emdkb2VQN2F4V01UaGN6RmZsbnliXzE3MTc4NTgwNjQ6MTcxNzg2MTY2NF9WNA)
+![img](images/img05.png)
 
 - 安装脚本
 
@@ -307,9 +307,9 @@ pip install https://ms-release.obs.cn-north-4.myhuaweicloud.com/2.2.14/MindSpore
 python -c "import mindspore;mindspore.set_context(device_target='CPU');mindspore.run_check()"
 ```
 
-![img](https://pxiw11pck8u.feishu.cn/space/api/box/stream/download/asynccode/?code=MTQyZTkxMmQ1MTE3NWUzOGY4ZWE4YWNkMTIxMGU3OTNfeXQ3Uk1VcDRkVnprVTNWbVVEQlJaRUdENThuUVM5cU5fVG9rZW46WEpzYmJZeGdRb29vS2J4d2VnNGNscm9YbmhiXzE3MTc4NTgwNjQ6MTcxNzg2MTY2NF9WNA)
+![img](images/img06.png)
 
-![img](https://pxiw11pck8u.feishu.cn/space/api/box/stream/download/asynccode/?code=YjAzMDFkYTE5ZGQxMWY4MDMzZjVmYjg0NWJlMmIyNzdfbUJHdm5veUVWSzRkRGhTV05yNGRpYVJuTThyaDliTWRfVG9rZW46TXEzWmJwWW8zb0JqUGp4eXZ2YmNXN0FLbmdlXzE3MTc4NTgwNjQ6MTcxNzg2MTY2NF9WNA)
+![img](images/img07.png)
 
 6.2.5 sciai_g安装
 
@@ -369,9 +369,9 @@ python train.py \
 
 ### 6.5 运行结果截图如下
 
-![img](https://pxiw11pck8u.feishu.cn/space/api/box/stream/download/asynccode/?code=N2NhZGRiYTBlZGUyMTExZWYwZTNkYWI1MmUwYmViMmFfYXlvSUViVFVaVWtmbjFnejFKaW5kRzdUUElabVUyZ05fVG9rZW46RE15WWJsREM5b1ZIRTd4UE1zYmN5dngxbjNlXzE3MTc4NTgwNjQ6MTcxNzg2MTY2NF9WNA)
+![img](images/img08.png)
 
-![img](https://pxiw11pck8u.feishu.cn/space/api/box/stream/download/asynccode/?code=OThjMGY5NTY5ZDBhOGRhMmM2NTBiODAzYjU5ZjNiMTdfSTdVTXRpamtKaXFZVWIzTHBmVERSZGpZakJXdmczRlBfVG9rZW46Vk5ZT2JuSnVPb2RCODR4cE9uQmNKWExMbmhoXzE3MTc4NTgwNjQ6MTcxNzg2MTY2NF9WNA)
+![img](images/img09.png)
 
 ### 6.6 代码运行步骤
 
@@ -535,6 +535,6 @@ class SolNetBurgersDiff(SolNet):
 python eval.py
 ```
 
-![img](https://pxiw11pck8u.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjQ2NWI5MTI4YTkzNzE0MGEyYTQ2YmVkNTM4YzYyZGVfcGpSc1dSZGkxajBtZ3pUeTlZN0xCNFJqN2cybExtem9fVG9rZW46U0hBOGJWZkNmb1VVWkJ4SlNTa2NudjZ0bnZlXzE3MTc4NTgwNjQ6MTcxNzg2MTY2NF9WNA)
+![img](images/img10.png)
 
-![img](https://pxiw11pck8u.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDU3ZjRiODFmYjEwNmM0OGNmYWMxOTA0MTJmZDk4YWNfb0sxQnhzMTJ6aVhXSXRUWDFuU0lHS3NpbklUSTFvQkFfVG9rZW46WlZ0dGJiU2pKb1VBNGh4bmJXOWM2TmdQbnRjXzE3MTc4NTgwNjQ6MTcxNzg2MTY2NF9WNA)
+![img](images/img11.png)
